@@ -1,0 +1,9 @@
+{
+    "nombre": "Jose Vicente",
+    "apellidos": "Carratalá Sanchis",
+    "email": "info@josevicentecarratala.com",
+    "telefonos": [
+        {"movil":"620891718"},
+        {"casa":"963778757"}
+    ]
+}

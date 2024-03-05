@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Jose Vicente",
+        "apellidos": "Carratalá Sanchis",
+        "email": "info@josevicentecarratala.com",
+        "telefonos": {
+            "movil":[
+                "620891718",
+                "12345"
+            ],
+            "casa":"963778757"
+        }
+    },
+    {
+        "nombre": "Juan",
+        "apellidos": "García Lopez",
+        "email": "juan@jocarsa.com",
+        "telefonos": {
+            "movil":[
+                "64356346",
+                "634564"
+            ],
+            "casa":"63456"
+        }
+    }
+]
